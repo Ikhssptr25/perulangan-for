@@ -9,7 +9,7 @@ int main(){
 	//deklarasi variabel//  
     int i;
     double penjumlahan;
-    float n,bilangan,rata;
+    double n,bilangan,rata;
     
     i=1;
     penjumlahan=0;
