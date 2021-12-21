@@ -11,7 +11,7 @@ int main(){
     double penjumlahan;
     double n,bilangan,rata;
     
-    i=1;
+    i=0;
     penjumlahan=0;
     
     
